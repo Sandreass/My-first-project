@@ -10,4 +10,5 @@ This project features:
 - A "Services" section.
 - A footer with links to privacy policy and terms of service.
 
-My-first-project.png
+
+![My-first-project screenshot](My-first-project.png)
