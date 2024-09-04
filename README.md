@@ -9,3 +9,5 @@ This project features:
 - A "About Us" section.
 - A "Services" section.
 - A footer with links to privacy policy and terms of service.
+
+My-first-project.png
